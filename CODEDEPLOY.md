@@ -1,5 +1,6 @@
 
 # Installing the CodeDeploy agent on EC2
+** Updated way to install with SSM **
 ```YAML
 
 - Create EC2 Instance with IAM Role attached
